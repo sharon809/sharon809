@@ -4,7 +4,20 @@
 * 🧐 I’m kinda interested in psychology and philosophy recently.
 * 🎮 I'm a console game fan and I love Stardew Valley.
 
-<br />
+<details>
+<summary>🌈 Languages and Tools</summary>
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongweiming&layout=compact&hide=html" alt="dongweiming" />
+</p>
+
+</details>
+
 <details>
 <summary>📝 Blog posts</summary>
   
@@ -15,23 +28,7 @@ More on <a href="https://www.chenyx.top" target="blank"> chenyx.top</a> .
 
 </details>
 
-<br />
-<details>
-<summary>🌈 Languages and Tools</summary>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
-<br />
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongweiming&layout=compact&hide=html" alt="dongweiming" />
-</p>
-
-</details>
-
-
-<br />
 📫 How to Reach me
   
 <p align="left">
